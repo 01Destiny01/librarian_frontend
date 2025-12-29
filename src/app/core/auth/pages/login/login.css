@@ -1,13 +1,11 @@
 
 form{
+    
     background-image: url('../../../../../assets/imgs/login-background.png');
+    max-width: 450px;
 
 } 
 
-body{
-    background-image: url('../../../../../assets/imgs/share.png');
-    background-repeat: unset;
-} 
 /* 
 .title {
     display: grid;
