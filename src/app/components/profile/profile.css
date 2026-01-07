@@ -1,0 +1,17 @@
+.book{
+    img{
+        height: auto;
+        width: auto;
+        border-radius: 18px;
+    }
+    .title{
+        display: flex;
+        position: fixed;
+        left: 50;
+        justify-content: center;
+    }
+    .description{
+
+    }
+
+}

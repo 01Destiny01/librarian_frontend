@@ -3,6 +3,7 @@ import { BookCatalog } from './components/book-catalog/book-catalog';
 import { Profile } from './components/profile/profile';
 import { Login } from './core/auth/pages/login/login';
 import { Library } from './components/library/library';
+import { Notification } from './components/notification/notification';
 
 export const routes: Routes = [
   {
@@ -19,7 +20,7 @@ export const routes: Routes = [
   },
    {
     path: 'notification',
-    component: BookCatalog,
+    component: Notification,
   },
   {
     path: 'catalog',
